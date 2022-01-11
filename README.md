@@ -1,2 +1,2 @@
-# go-tools
+# Go Tools
 Set of Tools to use in multiple Projects
